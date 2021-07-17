@@ -1,6 +1,6 @@
 # Face Detection in Images :   CV-Assignment
 
-Group members
+Group members:
 
 Fiza (2k18-ELE-31)
 
