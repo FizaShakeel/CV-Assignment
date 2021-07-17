@@ -1,4 +1,4 @@
-# CV-Assignment
+# Face Detection in Images :   CV-Assignment
 
 Group members
 
